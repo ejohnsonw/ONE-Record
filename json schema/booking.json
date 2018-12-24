@@ -20,7 +20,7 @@
       },
       "AirWaybillReference": {
          "description": "Air Waybill URI",
-         "type": "undefined"
+         "type": "text"
       },
       "BookingType": {
          "description": "Type of booking - e.g: Freesale, Allocation, BlockSpace Agreement",

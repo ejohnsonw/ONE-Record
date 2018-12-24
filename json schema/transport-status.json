@@ -10,7 +10,7 @@
       },
       "AirWaybillReference": {
          "description": "Air Waybill URI",
-         "type": "undefined"
+         "type": "text"
       },
       "SegmentStatus": {
          "description": "Status of a group of pieces moved on a segment ",

@@ -26,7 +26,7 @@
       },
       "URI": {
          "description": "URI of document or logistics object",
-         "type": "undefined"
+         "type": "text"
       }
    }
 }
