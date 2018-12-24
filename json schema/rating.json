@@ -2,7 +2,7 @@
 	"@context": {
     	"@vocab": "http://cargo.iata.org#"
     },
-    "value":
+    "rating":
       {
       "Value": {
          "description": "Value",
