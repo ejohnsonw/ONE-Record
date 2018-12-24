@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "http://cargo.iata.org#"
+  },
+  "piece-grouping-totals": [
+    {
+      "TotalTax": {
+        "description": "Temporary Placeholder",
+        "required": true,
+        "type": "value.json"
+      },
+      "Total": {
+        "description": "Temporary Placeholder",
+        "required": true,
+        "type": "value.json"
+      }
+    }
+  ]
+}
