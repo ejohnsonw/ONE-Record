@@ -56,7 +56,6 @@
             "type": "text"
          }
       },
-      "Products": [{"type":"Product"
-      }]
+      "Product": []
    }
 }
